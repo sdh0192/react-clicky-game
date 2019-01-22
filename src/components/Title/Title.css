@@ -1,5 +1,4 @@
 .titlebox {
-    background-image: url('/img/dogs_bg_denim.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -8,9 +7,9 @@
     vertical-align: center;
     /* opacity: 0.3; */
     /* filter: alpha(opacity=30); */
-    font-family: 'Holtwood One SC', serif;
-    color: #fff;
-    text-shadow: 0 0 5px #000;
+    font-family: 'VT323', monospace;
+    color: black;
+    /* text-shadow: 0 0 2px #000; */
     margin-bottom: 20px;
 }
 

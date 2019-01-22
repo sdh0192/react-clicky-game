@@ -3,8 +3,8 @@ import "./Title.css";
 
 const Title = props => (
     <div className="titlebox">
-        <h1>Dog Clicky Game!</h1>
-        <p>Click on an image to earn points, but don't click on any more than once!</p>
+        <h1>Doggo Clicky Game!</h1>
+        <p>Try to click them all, without clicking on one twice!</p>
     </div>
 );
 

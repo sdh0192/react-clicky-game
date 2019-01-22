@@ -1,7 +1,7 @@
 [
     {
-        "breed": "bulldog",
-        "image": "https://dog.ceo/api/img/bulldog-boston/n02096585_1737.jpg"
+        "breed": "bull-terrier",
+        "image": "https://images-ra.adoptapet.com/seo/1/h/28_h.png"
     },
     {
         "breed": "beagle",
@@ -46,17 +46,5 @@
     {
         "breed": "mastiff",
         "image": "https://dog.ceo/api/img/mastiff-bull/n02108422_2052.jpg"
-    },
-    {
-        "breed": "sheepdog",
-        "image": "https://dog.ceo/api/img/sheepdog-english/n02105641_12614.jpg"
-    },
-    {
-        "breed": "terrier",
-        "image": "https://dog.ceo/api/img/terrier-american/n02093428_10164.jpg"
-    },
-    {
-        "breed": "shihtzu",
-        "image": "https://dog.ceo/api/img/shihtzu/n02086240_11766.jpg"
     }
 ]
