@@ -4,47 +4,47 @@
         "image": "https://images-ra.adoptapet.com/seo/1/h/28_h.png"
     },
     {
-        "breed": "beagle",
-        "image": "https://dog.ceo/api/img/beagle/n02088364_13050.jpg"
+        "breed": "boston-terrier",
+        "image": "https://images.dog.ceo/breeds/bulldog-boston/n02096585_9834.jpg"
     },
     {
-        "breed": "husky",
-        "image": "https://dog.ceo/api/img/husky/n02110185_14523.jpg"
+        "breed": "staffordshire-bullterrier",
+        "image": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_2763.jpg"
     },
     {
-        "breed": "maltese",
-        "image": "https://dog.ceo/api/img/maltese/n02085936_10197.jpg"
-    },
-    {
-        "breed": "pomeranian",
-        "image": "https://dog.ceo/api/img/pomeranian/n02112018_13636.jpg"
-    },
-    {
-        "breed": "poodle",
-        "image": "https://dog.ceo/api/img/poodle-miniature/n02113712_1088.jpg"
-    },
-    {
-        "breed": "pyrenees",
-        "image": "https://dog.ceo/api/img/pyrenees/n02111500_395.jpg"
-    },
-    {
-        "breed": "chihuahua",
-        "image": "https://dog.ceo/api/img/chihuahua/n02085620_3409.jpg"
-    },
-    {
-        "breed": "boxer",
-        "image": "https://dog.ceo/api/img/boxer/n02108089_11687.jpg"
+        "breed": "austrailian-shepherd",
+        "image": "https://images.dog.ceo/breeds/cattledog-australian/IMG_2432.jpg"
     },
     {
         "breed": "chow",
-        "image": "https://dog.ceo/api/img/chow/n02112137_12792.jpg"
+        "image": "https://images.dog.ceo/breeds/chow/n02112137_1830.jpg"
     },
     {
-        "breed": "corgi",
-        "image": "https://dog.ceo/api/img/corgi-cardigan/n02113186_1030.jpg"
+        "breed": "chocolate-lab",
+        "image": "https://images.dog.ceo/breeds/labrador/n02099712_4428.jpg"
     },
     {
-        "breed": "mastiff",
-        "image": "https://dog.ceo/api/img/mastiff-bull/n02108422_2052.jpg"
+        "breed": "german-shephard",
+        "image": "https://images.dog.ceo/breeds/germanshepherd/n02106662_24110.jpg"
+    },
+    {
+        "breed": "rhodesian-ridgeback",
+        "image": "https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_7254.jpg"
+    },
+    {
+        "breed": "doberman",
+        "image": "https://images.dog.ceo/breeds/doberman/n02107142_17111.jpg"
+    },
+    {
+        "breed": "mini-red-poodle",
+        "image": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_1554.jpg"
+    },
+    {
+        "breed": "vizsla",
+        "image": "https://images.dog.ceo/breeds/vizsla/n02100583_12122.jpg"
+    },
+    {
+        "breed": "jack-russell-terrier",
+        "image": "https://images.dog.ceo/breeds/terrier-russell/little1.jpg"
     }
 ]
